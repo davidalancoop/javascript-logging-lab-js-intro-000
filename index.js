@@ -1,2 +1,2 @@
 console.console.error("halp!");
-console.log("HALP!");
+console.console.log("oh no!");
